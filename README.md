@@ -205,7 +205,7 @@ Prediktor utama untuk harga mobil meliputi usia, tenaga mesin, jenis bahan bakar
 
 ## 📚 Referensi
 
-- Dataset asli: "Cars4u" oleh Sukhmani Bedi di Kaggle
+- Dataset asli: ["Cars4u" oleh Sukhmani Bedi di Kaggle](https://www.kaggle.com/datasets/sukhmanibedi/cars4u)
 - [Dokumentasi Scikit-learn](https://scikit-learn.org/)
 - [Dokumentasi Statsmodels](https://www.statsmodels.org/)
 
