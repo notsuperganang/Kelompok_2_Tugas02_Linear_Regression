@@ -191,6 +191,7 @@ Dataset Cars4u berisi informasi detail tentang 7.253 mobil bekas di India, denga
 │   └── raw-data
 │       └── used_cars_data.csv
 ├── main.ipynb
+├── PPT_Kelompok2_RegresiLinear.pdf
 ├── README.md
 └── soal.pdf
 ```
