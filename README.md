@@ -101,11 +101,6 @@ Dataset Cars4u berisi informasi detail tentang 7.253 mobil bekas di India, denga
 - 📊 Statistik deskriptif dan visualisasi
 - 📈 Mengkaji distribusi data dan hubungan antar variabel
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/diamonds_vs_price.png" width="400" height="300" alt="Data Visualization Example">
-  <p><i>Contoh visualisasi data untuk pemahaman pola</i></p>
-</div>
-
 ### 2️⃣ Pra-pemrosesan Data
 - 🧹 Menangani missing values dengan teknik yang tepat
 - ✨ Feature engineering (mis. membuat 'Age' dari 'Year')
@@ -199,14 +194,6 @@ Dataset Cars4u berisi informasi detail tentang 7.253 mobil bekas di India, denga
 ├── README.md
 └── soal.pdf
 ```
-
-## 🔎 Visualisasi Model
-
-<div align="center">
-  <img src="https://miro.medium.com/max/1400/1*_7OPgojau8hkiPUiHoGK_w.png" width="500" height="300" alt="Linear vs Polynomial Regression">
-  <p><i>Perbandingan Visualisasi Model Regresi Linear dan Polinomial</i></p>
-</div>
-
 ## 📝 Kesimpulan
 
 Model Regresi Linear memberikan pendekatan yang stabil dan andal untuk memprediksi harga mobil bekas, dengan kinerja yang konsisten baik pada data training maupun testing. Meskipun Regresi Polinomial mencapai akurasi lebih tinggi pada training set, model ini mengalami overfitting parah dan gagal melakukan generalisasi pada data baru.
